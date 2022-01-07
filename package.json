@@ -1,0 +1,26 @@
+{
+  "name": "acsupdate",
+  "version": "1.0.0",
+  "description": "Update delivery status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domus71/acsupdate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domus71/acsupdate/issues"
+  },
+  "homepage": "https://github.com/domus71/acsupdate#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "knex": "^0.95.15",
+    "mysql2": "^2.3.3"
+  }
+}
